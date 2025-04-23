@@ -1,0 +1,122 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "Greeting", "what's up?", "how is it going?"],
+    "responses": ["Hello!", "Hey!", "What can I do for you?"]
+    },
+    {"tag": "goodbye",
+    "patterns": ["cya", "see you later", "Goodbye", "I am Leaving", "Have a Good day", "bye?", "see ya"],
+    "responses": ["Hello!", "Hey!", "What can I do for you?"]
+    },
+    {"tag": "age",
+    "patterns": ["how old", "how old is fedpoffa", "what is your age", "how old are you", "age"],
+    "responses": [ "The owner Fedpoffa ChatBot is 2 Months", "2 Months"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name?", "what should I call you?", "whats your name?","who are you?", "can you tell me your name?" ],
+    "responses": ["Sure... My name is Ridwan!", "I'm Ridwan!", "I'm Ridwan the assistant of Fedpoffa Mini Campus"]
+    },
+    {"tag": "computer science department",
+    "patterns": ["where is department of computer science?", "I'm looking for computer science department?", "Im looking for computer science"],
+    "responses": ["Actually we have 4 road inside campus and the department of computer science is between road 3 and 4 with pictures below..... "]
+    },
+    {"tag": "library office",
+    "patterns": ["where is library?", "I'm looking for library?", "Im looking for library office?"],
+    "responses": ["Actually we have 4 road inside campus and the Library Office is between road 2 and 3 with pictures below..... "]
+    },
+    {"tag": "hadesoye hall",
+    "patterns": ["where is hadesoye hall", "I'm looking for aah", "Im looking for hadesoye hall"],
+    "responses": ["Actually we have 4 road inside campus and the Adesoye Hall is between road 1 and 2 with pictures below..... "]
+    },
+    {"tag": "Stella Hall",
+    "patterns": ["where is Stella Hall", "I'm looking for Stella Hall", "Im going to Stella Hall"],
+    "responses": ["Actually we have 4 road inside campus and the Stella Hall is between road 1 and 2 and the pictures show below... "]
+    },
+    {"tag": "Olat & Olaw",
+    "patterns": ["where is Olatinwo venue","where is Olawoyin venue", "I'm looking for Olatinwo", "I'm looking for Olawoyin"],
+    "responses": ["Actually we have 4 road inside campus and the Olatinwo & Olawoyin venue is between road 3 and 4, or once you enter school from second gate after passing Security Office with pictures below..."]
+    },
+    {"tag": "medical office",
+    "patterns": ["where is medical office", "I'm looking for medical office?"],
+    "responses": ["Actually we have 4 road inside campus and the Medical Office is road 1 once you enter first gate you will see it in front of Administration Office with pictures below... "]
+    },
+    {"tag": "HND LR venue",
+    "patterns": ["where is HND LR venue", "I'm looking for HND LR venue", "how do i get HND LR venue"],
+    "responses": ["Actually we have 4 road inside campus and the HND LR venue is between road 1 and 2 with pictures below..... "]
+    },
+    {"tag": "ICE venue",
+    "patterns": ["where is ICE venue?", "I'm looking for ICE venue", "how do i get ICE lr venue"],
+    "responses": ["Actually we have 4 road inside campus and the department of computer science is between road 3 and 4 with pictures below..... "]
+    },
+    {"tag": "Moremi venue",
+    "patterns": ["where is moremi venue?", "I'm looking for moremi venue?", "Im looking for moremi class?"],
+    "responses": ["Actually we have 4 road inside campus and the Moremi Venue is between road 3 and 4 after you pass Computer Science Department with pictures below..... "]
+    },
+    {"tag": "Boys Hostel",
+    "patterns": ["where is Boys Hostel?", "I'm looking for Boys Hostel?", "I'm going to Boys Hostel "],
+    "responses": ["Actually we have 4 road inside campus and the Boys Hostel once you get to the end of road 1 and you will see one roald by your left if you face stadium and you will pass that road by the left end you will see Boys Hostel with pictures below..... "]
+    },
+    {"tag": "Girls Hostel",
+    "patterns": ["where is Girls Hostel", "I'm looking for Girls Hostel", "Im going to Girls Hostel"],
+    "responses": ["Actually girls Hostel is at the back of ICE venue once you first find way to get to ICE venue go to the back of the venue you will see it with pictures below.... "]
+    },
+    {"tag": "PTF Hostel",
+    "patterns": ["where is PTF Hostel", "I'm looking for PTF Hostel", "Im heading to PTF Hostel"],
+    "responses": ["Actually we have 4 road inside campus and the department of computer science is between road 3 and 4 after you pass Moremi venue with pictures below... "]
+    },
+    {"tag": "Aluta Ground",
+    "patterns": ["where is Aluta Ground", "I'm looking for Aluta Ground", "Im going to Aluta Ground"],
+    "responses": ["Actually we have 4 road inside campus and the Aluta Ground is between road 2 and 3 in front of PTF Hostel with pictures below... "]
+    },
+    {"tag": "Market",
+    "patterns": ["where is Market", "I'm looking for Market"],
+    "responses": ["Actually we have 4 road inside campus and the Market is between road 3 and 4after you pass PTF Hostel with pictures below... "]
+    },
+    {"tag": "statistic department",
+    "patterns": ["where is Statistic Lab", "I'm looking for Statistics Department"],
+    "responses": ["Actually we have 4 road inside campus and the Statistics Department is between road 3 and 4,or once you enter school from second gate after you pass Olatinwo & Olawoyin with pictures below..."]
+    },
+    {"tag": "Administration office",
+    "patterns": ["where is Administration office", "I'm looking for Administration office"],
+    "responses": ["Actually we have 4 road inside campus and the Administration Office is road 1 once you enter first gate you will see it in front of Medical Office with pictures below."]
+    },
+    {"tag": "Security office",
+    "patterns": ["where is Security Office", "I'm looking for Security Office?"],
+    "responses": ["Actually we have 4 road inside campus and the Security Office is road 3 once you enter second gate you will see it by the right hand side with pictures below... "]
+    },
+    {"tag": "ICE Office",
+    "patterns": ["where is ICE Office", "I'm looking for ICE Office", "Can you please let me know ICE Office"],
+    "responses": ["Actually we have 4 road inside campus and the ICE Office is between road 2 and 3 with pictures below..... "]
+    },
+    {"tag": "Aji",
+    "patterns": ["where is Aji venue", "I'm looking for Aji venue"],
+    "responses": ["Actually we have 4 road inside campus and the Aji venue is road 3 and 4 before you passing ICE venue with pictures below...  "]
+    },
+    {"tag": "Bakre",
+    "patterns": ["where is Bakre", "I'm looking for Bakre"],
+    "responses": ["Actually we have 4 road inside campus and we have 2 Bakre company in the campus and first bakre is road 3 and 4 after you pass ICE venue or back of the ICE venue and second bakre is the front of the campus beside road 2 with pictures below...  "]
+    },
+    {"tag": "Biology dep.",
+    "patterns": ["where is Biology Department", "I'm looking for Biology Department"],
+    "responses": ["Actually we have 4 road inside campus and the Biology Department is road 2 and 3 with pictures below...  "]
+    },
+    {"tag": "central mosque",
+    "patterns": ["where is central mosque", "I'm looking for central mosque"],
+    "responses": ["Actually we have 4 road inside campus and the central mosque is road 2 and 3 with pictures below...  "]
+    },
+    {"tag": "Engineering dep.",
+    "patterns": ["where is Engineering Department", "I'm looking for Engineering Department"],
+    "responses": ["Actually we have 4 road inside campus and the Engineering Department is in road 1 once you enter first gate you will see it after passing Medical Office with pictures below...  "]
+    },
+    {"tag": "IJMB",
+    "patterns": ["where is IJMB", "I'm looking for IJMB"],
+    "responses": ["Actually we have 4 road inside campus and the IJMB is within HND LR venue with pictures below...  "]
+    },
+    {"tag": "Physics dep.",
+    "patterns": ["where is Physic Department", "I'm looking for physic Department"],
+    "responses": ["Actually we have 4 road inside campus and the Physic Department is road 2 and 3 with pictures below...  "]
+    },
+    {"tag": "purchase receipt",
+    "patterns": ["where can i purchase receipt", "I'm looking for purchase receipt"],
+    "responses": ["Actually we have 4 road inside campus and the purchase receipt is in road 1 once you enter first gate you will see it after passing Medical Office with pictures below...  "]
+    }
+]}
